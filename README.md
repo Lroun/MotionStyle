@@ -1,1 +1,1 @@
-# MotionManifold
+# MotionStyle
